@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+I'm+Ibro+Rebronja;I+am+a+Full+Stack+Developer;I+am+a+CS+Student;I+am+a+Web+Developer+Enthusiast;)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m Ibro Rebronja @IbroRebronja
 
 - 📅 Currently working as FullStack Developer Freelancer using my teach stack knowledge listed below.
