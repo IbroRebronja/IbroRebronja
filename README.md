@@ -5,6 +5,8 @@
 [![XING](https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Ibro_Rebronja)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rebronjaibro@gmail.com)
 
+---
+
 - 👋 Hi, I’m Ibro Rebronja @IbroRebronja
 
 - 📅 Currently working as FullStack Developer Freelancer using my teach stack knowledge listed below.
