@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+I'm+Ibro+Rebronja;I+am+a+Full+Stack+Developer;I+am+a+CS+Student;I+am+a+Web+Developer+Enthusiast;)](https://git.io/typing-svg)
 
+<a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
 - 👋 Hi, I’m Ibro Rebronja @IbroRebronja
 
 - 📅 Currently working as FullStack Developer Freelancer using my teach stack knowledge listed below.
