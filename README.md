@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+I'm+Ibro+Rebronja;I+am+a+Full+Stack+Developer;I+am+a+CS+Student;I+am+a+Web+Developer+Enthusiast;)](https://git.io/typing-svg)
 
-<div style="display: flex; gap: 10px;"> <a href="https://www.linkedin.com/in/yourusername" target="_blank" style="background-color:#0077B5; color:white; padding:8px 12px; border-radius:5px; text-decoration:none; font-weight:bold;">LinkedIn</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 
 - 👋 Hi, I’m Ibro Rebronja @IbroRebronja
 
