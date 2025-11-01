@@ -7,6 +7,8 @@
 
 <hr>
 
+![Cover Banner](test)
+
 - 👋 Hi, I’m Ibro Rebronja @IbroRebronja
 
 - 📅 Currently working as FullStack Developer Freelancer using my teach stack knowledge listed below.
