@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+I'm+Ibro+Rebronja;I+am+a+Full+Stack+Developer;I+am+a+CS+graduate+(240+ECTS);I+am+a+Web+Developer+Enthusiast;)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibro-rebronja/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IbroRebronja)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IbroRebronja)
 [![XING](https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Ibro_Rebronja)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rebronjaibro@gmail.com)
