@@ -8,7 +8,7 @@
 
 <hr>
 
-![Cover Banner](https://media.licdn.com/dms/image/v2/D4D16AQE5NvUNGJ83Sw/profile-displaybackgroundimage-shrink_350_1400/B4DZpksMznGkAY-/0/1762625903108?e=1766620800&v=beta&t=L_TXlYS_vjAV_N2a5tBYwrBVe-1tpHmL1k2Lll6n6zg)
+![Cover Banner](https://media.licdn.com/dms/image/v2/D4D16AQE5NvUNGJ83Sw/profile-displaybackgroundimage-shrink_350_1400/B4DZpksMznGkAY-/0/1762625903108?e=1772668800&v=beta&t=ILmM4t3IuZYaLrWn3XQWU1RSimGt5Ur27wGaRTAGfng)
 
 - 👋 Hi, I’m Ibro Rebronja @IbroRebronja
 
