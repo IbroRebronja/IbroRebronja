@@ -12,9 +12,7 @@
 
 - 👋 Hi, I’m Ibro Rebronja @IbroRebronja
 
-- 📅 Currently working as Support Engineer, so not really in my preferred field, but very grateful!
-
-- 👀 Driven by a passion for Front End Development, Back End Development, Full Stack Web Development, and tackling challenging and impactful development projects and tickets.
+- 👀 Driven by a passion for Front End Development, Back End Development, Full Stack Web Development and tackling challenging and impactful development projects and tickets.
 
 - 📫 How to reach me:
     - **rebronjaibro@gmail.com**
